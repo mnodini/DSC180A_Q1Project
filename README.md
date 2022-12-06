@@ -26,4 +26,3 @@ https://my.locuszoom.org/gwas/798344/region/?chrom=22&start=16874656&end=1727465
 ## Outputs
 All outputs from the 'test' and 'raw' runs are located in the output folder.
 
-# DSC180A_Q1Project
